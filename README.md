@@ -1,2 +1,13 @@
-# c_limited_vocabulary
+# C Limited Vocabulary
 Replace text with synonyms words
+
+- First argument: input file with text
+- Second argument: vocabulary file with synonyms
+
+# Vocabulary File Format
+```
+word1,synonym1_1,synonym1_2,synonym1_3 ...
+word2,synonym2_1,synonym2_2,synonym2_3 ...
+word3,synonym3_1,synonym3_2,synonym3_3 ...
+...
+```
