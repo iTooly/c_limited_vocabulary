@@ -1,0 +1,3 @@
+hi,hello,hey,heyo
+drink,beverage
+kind,sort,type
